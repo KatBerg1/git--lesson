@@ -1,5 +1,6 @@
 #TODO List
 
 - [x] Teach the github course
-- [ ] work on project
+- [x] work on project
+- [ ] add another bullet point
 - [ ] Go home
