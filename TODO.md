@@ -6,3 +6,4 @@ theme: jekyll-theme-minimal
 - [x] work on project
 - [ ] add another bullet point
 - [ ] Go home
+- [ ] get this to work
